@@ -41,30 +41,30 @@
 
 <p align="left">
 
-  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FFFF00)
-  ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logoColor=white&color=FFFF00&logo=typescript)
+  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=D7DF01)
+  ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logoColor=white&color=D7DF01&logo=typescript)
 
 </p>
 <p align="left">
 
-  ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logoColor=white&color=FFFF00&logo=node.js)
-  ![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=FFFF00)
-  ![React Native](https://img.shields.io/badge/Code-React%20Native-informational?style=flat&logoColor=white&color=FFFF00&logo=react)
-  ![Redux](https://img.shields.io/badge/Code-Redux-informational?style=flat&logoColor=white&color=FFFF00&logo=redux)
-  ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logoColor=white&color=FFFF00&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logoColor=white&color=FFFF00&logo=CSS3)
+  ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logoColor=white&color=D7DF01&logo=node.js)
+  ![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=D7DF01)
+  ![React Native](https://img.shields.io/badge/Code-React%20Native-informational?style=flat&logoColor=white&color=D7DF01&logo=react)
+  ![Redux](https://img.shields.io/badge/Code-Redux-informational?style=flat&logoColor=white&color=D7DF01&logo=redux)
+  ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logoColor=white&color=D7DF01&logo=HTML5)
+  ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logoColor=white&color=D7DF01&logo=CSS3)
 
 </p>
 <p align="left">
 
-  ![Git](https://img.shields.io/badge/Code-Git-informational?style=flat&logoColor=white&color=FFFF00&logo=git)
+  ![Git](https://img.shields.io/badge/Code-Git-informational?style=flat&logoColor=white&color=D7DF01&logo=git)
 
 </p>
 <p align="left">
 
-  ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FFFF00)
-  ![MacOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=FFFF00)
-  ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white&color=FFFF00)
+  ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=D7DF01)
+  ![MacOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=D7DF01)
+  ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white&color=D7DF01)
 
 </p>
 
@@ -75,12 +75,12 @@
     align="left"
     height="180em"
     alt="condish"
-    src="https://github-readme-stats.vercel.app/api?username=condish&count_private=true&show_icons=true&title_color=FFFF00&icon_color=00FFFF&text_color=B7CFF9&bg_color=1E1E1E&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=condish&count_private=true&show_icons=true&title_color=D7DF01&icon_color=5E610B&text_color=B7CFF9&bg_color=1E1E1E&hide_border=true"
   />
   <img
     align="left"
     height="180em"
     alt="condish"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=condish&theme=buefy&title_color=FFFF00&icon_color=00FFFF&text_color=B7CFF9&bg_color=1E1E1E&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=condish&theme=buefy&title_color=D7DF01&icon_color=5E610B&text_color=B7CFF9&bg_color=1E1E1E&hide_border=true"
   />
 </a>
