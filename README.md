@@ -75,12 +75,12 @@
     align="left"
     height="180em"
     alt="condish"
-    src="https://github-readme-stats.vercel.app/api?username=condish&count_private=true&show_icons=true&title_color=F9DC5C&icon_color=E84855&text_color=B7CFF9&bg_color=1E1E1E&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=condish&count_private=true&show_icons=true&title_color=F9DC5C&icon_color=FFA500&text_color=B7CFF9&bg_color=403F4C&hide_border=true"
   />
   <img
     align="left"
     height="180em"
     alt="condish"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=condish&theme=buefy&title_color=F9DC5C&icon_color=E84855&text_color=B7CFF9&bg_color=1E1E1E&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=condish&theme=buefy&title_color=F9DC5C&icon_color=FFA500&text_color=B7CFF9&bg_color=403F4C&hide_border=true"
   />
 </a>
